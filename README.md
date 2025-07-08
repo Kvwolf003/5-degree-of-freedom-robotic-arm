@@ -1,7 +1,4 @@
 # 5-degree-of-freedom-robotic-arm
-Here’s an enhanced, more stylish version of your `README.md` with better structure, markdown styling, and some visual elements like badges and code formatting:
-
----
 
 # 🤖 5 Degree of Freedom Robotic Arm
 
